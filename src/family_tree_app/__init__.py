@@ -1,0 +1,3 @@
+"""
+Family Tree App package.
+"""
